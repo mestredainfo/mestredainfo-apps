@@ -1,0 +1,14 @@
+Source: mestredainfo-apps
+Section: utils
+Priority: optional
+Maintainer: Mestre da Info <contatomestredainfo@gmail.com>
+Standards-Version: 3.9.4
+HomePage: https://www.mestredainfo.com.br
+Build-Depends: debhelper (>= 10)
+
+Package: mestredainfo-apps
+Architecture: all
+Description: Ativa o PPA Apps do Mestre da Info no Debian e Ubuntu.
+ Ativa o PPA Apps do Mestre da Info no Debian e Ubuntu.
+ .
+ The mestredainfo-apps is under license GPL-2.0-only

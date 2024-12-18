@@ -1,0 +1,2 @@
+etc/apt/sources.list.d/mestredainfo-apps.list /etc/apt/sources.list.d
+etc/apt/trusted.gpg.d/mestredainfo-apps.asc /etc/apt/trusted.gpg.d
